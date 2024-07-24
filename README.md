@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkiverma111&label=Profile%20views&color=0e75b6&style=flat" alt="akkiverma111" /> </p>
 
-- 🌱 I’m currently Pursuing Master's in **Data Science at Manipal Academy of Higher Education, Karnataka**
+- 🌱 I’m currently in the 3rd semester of my Master's in **Data Science at Manipal Academy of Higher Education, Karnataka**
 
-- 💡 I'm interested in all things data: **Big Data, Machine Learning, Deep Learning, Statistics**
+- 💡 I'm interested in all things data: **Machine Learning, Deep Learning, Statistics, Big Data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
