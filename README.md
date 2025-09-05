@@ -5,7 +5,7 @@
 
 - 🌱 I have done Master's in **Data Science from Manipal Academy of Higher Education, Karnataka**
 
-- 💡 I'm interested in all things data: **Machine Learning, Deep Learning, Statistics, Big Data**
+- 💡 I'm interested in all things data: **Machine Learning, Deep Learning, Statistics, Natural Language Processing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
